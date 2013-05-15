@@ -1,3 +1,2 @@
-<?php
-	$GLOBALS['TL_JAVASCRIPT'][] = TL_PLUGINS_URL . 'assets/jquery/touchswipe/jquery.touchSwipe.min.js';
-?>
+
+<script src="<?php echo TL_ASSETS_URL; ?>assets/jquery/touchswipe/jquery.touchSwipe.min.js"></script>
